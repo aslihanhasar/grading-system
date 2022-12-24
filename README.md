@@ -18,8 +18,10 @@ methods are defined.
 
 * Three students, three courses and three teachers are determined.
 Program output for teachers and one student will be as: 
+
 ![img.png](img.png)
 
+---
 
 ## Installation
 Clone the project.
